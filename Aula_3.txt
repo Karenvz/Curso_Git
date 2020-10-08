@@ -1,0 +1,237 @@
+    1  ls
+    2  ls
+    3  ls
+    4   ls..
+    5  ls ..
+    6  pwd
+    7  cd desktop/
+    8  cd..
+    9  cd ..
+   10  cd ~
+   11  cd Destop/
+   12  mkdtop comandos
+   13  mkdir comandos
+   14  ls
+   15  cd d
+   16  cd Desktop
+   17  cd ~
+   18  cd Desktop
+   19  cd Desktop/
+   20  cd Document/
+   21  git config --global user.name `Karen Ramos
+   22  clear
+   23  git config --global user.name 'Karen Ramos'
+   24  git config --global user.email 'knrvectores@gmial.com
+   25  git config --global user.email 'knrvectores@gmail.com'
+   26  git config user.name
+   27  cd Desktop/
+   28  mkdir Curso_Git
+   29  cd Curso_Git/
+   30  git config user.name
+   31  Git init
+   32  git status
+   33  echo '#aprendendo usar o Git' > redme.md
+   34  echo '#Aprendendo usar o Git' > readme.md
+   35  echo '#Aprendendo usar o Git' > readme.md
+   36  $ echo '#Aprendendo usar o Git' > readme.md
+   37  $ echo '#Aprendendo usar o Git' > readme.md
+   38  echo '#aprendendo usar o git' > readme.md
+   39  https://github.com/Lukff/revisao-html.git
+   40  ls Desktop/
+   41  ls Document/
+   42  ls Documents/
+   43  https://github.com/Lukff/revisao-html.git
+   44  ls Documents/
+   45  cd Documents/
+   46  git clone https://github.com/Lukff/revisao-html.git
+   47  ls
+   48  ssh-keygen -t rsa -b 4096 -c 'knrvectores@gmail.com'
+   49  ls ~/ .ssh
+   50  clear
+   51  ssh-keygen -t rsa -b 4096 -c 'knrvectores@gmail.com'
+   52  ls~/.ssh
+   53  ls ~/ .ssh
+   54  cat ~/ .ssh/id_rsa.pub
+   55  clear
+   56  pwd
+   57  git init
+   58  ls -al
+   59  code
+   60  git status
+   61  git add index.txt
+   62  git status
+   63  git rm
+   64  git rm index.txt
+   65  git status
+   66  git rm --cached index.txt
+   67  git status
+   68  git add index.txt
+   69  git status
+   70  git commit -m "este es el primer commit de este archivo parctica"
+   71  cleaar
+   72  clear
+   73  git config
+   74  git config --list
+   75  git config --list --show-origin
+   76  git config --global user.name "Karen Ramos"
+   77  git config --global user.email "knrvectores@gmail.com"
+   78  git config --list
+   79  git status
+   80  clear
+   81  pwd
+   82  git init
+   83  git status
+   84  git commit -m
+   85  git commit -m "este es el primer commit de este archivo"
+   86  pwd
+   87  mkdir "projeto1"
+   88  cd Document
+   89  cd Document/
+   90  cd Documents/
+   91  mkdir "practica1"
+   92  git status
+   93  cd Documents/practica1/
+   94  cd Documents/practica1
+   95  cd practica1/
+   96  pwd
+   97  git init
+   98  ls -al
+   99  code
+  100  git status
+  101  git add practica1.txt
+  102  git status
+  103  git rm practica.txt
+  104  git status
+  105  git rm --cached practica.txt
+  106  git rm --cached practica1.txt
+  107  git status
+  108  git add practica1.txt
+  109  git status
+  110  git commit -m "mi primer commit"
+  111  cat practica1.txt
+  112  code practica1.txt
+  113  git status
+  114  git commit -m "cambios ao arquivo para mudar o conteudo"
+  115  git add .
+  116  git status
+  117  git status commit -m "cambios ao arquivo para mudar o conteudo"
+  118  git commit -m "cambiocambio
+  119  git status
+  120  sasasa
+  121  cd Documents/
+  122  cd practica1/
+  123  git status
+  124  git restore --staged "practica1.txt"
+  125  git status
+  126  git add .
+  127  git status
+  128  git commit -m "cambios al achivo sobre el contenido"
+  129  git log practica1.txt
+  130  git show practica1.txt
+  131  pwd
+  132  ls
+  133  code practica1.txt
+  134  git add .
+  135  git commit
+  136  GIT GIGJkkdjdjsddfffffsJJJJBSJKHSDVHSDHIVHSIOsfgSHHHHHHHGIT
+  137  cd Documents/
+  138  practica1/
+  139  cd practica1/
+  140  git status
+  141  git restore --staged "practica1,txt"
+  142  git status
+  143  cd practica/
+  144  log
+  145  git log
+  146  git status
+  147  pwd
+  148  git init
+  149  ls -al
+  150  code
+  151  git status
+  152  git add historia.txt
+  153  git status
+  154  git add historia.txt
+  155  git status
+  156  git rm historia.txt
+  157  gist status
+  158  git status
+  159  git rm --cached historia.txt
+  160  git status
+  161  git add historia.txt
+  162  git status
+  163  git commit -m "Este es el primer commit"
+  164  cat historia.txt
+  165  code historia.txt
+  166  git status
+  167  git commit -m "cambios de la edad en el archivo"
+  168  gid add .
+  169  git add .
+  170  git status
+  171  git commit -m "cambios de la edad en el archivo"
+  172  git log historia.txt
+  173  git show historia.txt
+  174  pwd
+  175  ls
+  176  code historia.txt
+  177  git add .
+  178  git commit
+  179  git commit
+  180  git add .
+  181  git status
+  182  git commit
+  183  git show
+  184  git log historia.txt
+  185  git diff  b629442a893d7198a9ad42db1665091f860021b0 653a0b13a86705b8f27a225f4966854dc34fadaf
+  186  git diff 653a0b13a86705b8f27a225f4966854dc34fadaf
+  187  git diff 653a0b13a86705b8f27a225f4966854dc34fadaf ed251a91ad2ee9bd9a0c654481d64f417efac683
+  188  git log historia.txt
+  189  git diff b629442a893d7198a9ad42db1665091f860021b0  3753b77b69d173dba60b64cfac43acac43601ada
+  190  git log 
+  191  git reset 3753b77b69d173dba60b64cfac43acac43601ada --hard
+  192  git status
+  193  git log
+  194  code history.txt
+  195  git status
+  196  ls
+  197  ls -al
+  198  git add .
+  199  git status
+  200  code history.txt
+  201  code historia.txt
+  202  git config user .name
+  203  git gonfig user.name
+  204  clear
+  205  git config user.name
+  206  cd Desktop/
+  207  mkdir Curso_Git
+  208  cd Curso_Git/
+  209  git config user.name
+  210  git init
+  211  git status
+  212  echo '#Aprendendo usar o Git' > readme.md
+  213  git status
+  214  git add readme.md
+  215  git status
+  216  git commit -m 'commit inicial'
+  217  git status
+  218  echo '##Aula 1' >> readme.md
+  219  git status
+  220  echo 'Karen Ramos' >participantes.txt
+  221  git status
+  222  git add .
+  223  git status
+  224  git restore --staged partiipantes.txt
+  225  git status
+  226  git restore --staged participantes.txt
+  227  git status
+  228  git add participantes.txt
+  229  git status
+  230  git restore --staged .
+  231  git status
+  232  git commit -am 'Alretação no readme'
+  233  git status
+  234  git add participantes.txt
+  235  git status
+  236  git commit -m 'Adicionando participantes.txt'
+  237  history > Aula_3.txt
