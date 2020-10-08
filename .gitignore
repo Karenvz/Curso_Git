@@ -1,0 +1,4 @@
+.vscode/
+pessoal.conf >> .gitinore
+echo pessoal.conf
+pessoal.conf
